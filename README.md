@@ -17,7 +17,7 @@
 #### building from sources
 
 ```sh
-git clone https://git.xeondev.com/fadia-rs/fadia-rs.git
+https://github.com/2572769996/fadia-rs.git
 cd fadia-rs
 cargo run --bin fadia-patchersdk-server
 cargo run --bin fadia-gamesdk-server
